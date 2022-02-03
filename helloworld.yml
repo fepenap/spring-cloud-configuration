@@ -1,3 +1,0 @@
-server:
-  port: 9001
-message: Consumer configuration server is alive!
