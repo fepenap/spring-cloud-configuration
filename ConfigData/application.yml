@@ -1,0 +1,7 @@
+eureka:
+  client:
+     service-url:
+        defaultzone: http://localhost:8761/eureka
+spring:
+  profiles: default
+global-message: Configuration server is alive!
